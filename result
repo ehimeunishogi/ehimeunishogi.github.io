@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>愛媛大学将棋部大会結果</title>
+  <meta name="description" content="大会結果">
+   <style>
+body {background-color: #ffa500; }
+  </style>
+</head>
+<body>
+<body>
+    <table border="1" width="100%" bordercolor="#66ffff" bgcolor="#FFFFFF" align="center">
+<tr><td width="70"> 
+            <p align="center">第何回 </td><td width="13%"> 
+            <p align="center">日時 </td><td width="10%"> 
+            <p align="center">場所 </td><td width="30%"> 
+            <p align="center">個人戦 </td><td width="30%"> 
+            <p align="center">団体戦 </td><td width="10%"> 
+            <p align="center">団体戦<br>オーダー表 </td>
+</tr>
+
+<tr><td width="80"> 
+            <p align="center">第101回</td>
+        <td width="10%">
+            <p style="line-height:100%; margin-top:0; margin-bottom:0;" align="center">2019.5.4～6</td>
+        <td width="10%">
+            <p style="line-height:100%; margin-top:0; margin-bottom:0;" align="center">岡山大学</td>
+        <td width="30%">
+            <p style="line-height:150%;" align="center">黒川(3)6位(西日本大会出場)<br>高橋(4)14位</td>
+        <td width="30%">
+            <p style="line-height:150%;" align="center">A級3位(西日本大会出場)</td>
+        <td width="10%">
+            <p style="line-height:100%; margin-top:0; margin-bottom:0;"><font size="2"><a href="">オーダー表</a></td></font>
+</td>
+
+</font></td>
+</tr>
+</table>
